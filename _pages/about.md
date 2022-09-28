@@ -9,7 +9,7 @@ redirect_from:
 ---
 Academic Bio
 ======
-I'm a Junior Research Fellow and PhD candidate in the <a href="https://filsem.ut.ee/en">Department of Philosophy</a> at the <a href="https://filsem.ut.ee/en">University of Tartu, </a>. I also work as a visiting lecturer at <a href="https://taltech.ee/en">Taltech (Tallinn University of Technology).</a> 
+I'm a Junior Research Fellow and PhD candidate in the <a href="https://filsem.ut.ee/en">Department of Philosophy</a> at the <a href="https://filsem.ut.ee/en">University of Tartu</a>. I also work as a visiting lecturer at <a href="https://taltech.ee/en">Taltech (Tallinn University of Technology).</a> 
 
 My research focuses primarily on...
 
